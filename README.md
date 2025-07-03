@@ -1,4 +1,5 @@
 🤖 AI-Enabled Chatbot for Event Registration and Information
+
 An interactive, multilingual AI-powered chatbot application designed to assist users in discovering, registering, and querying about events in a smart and conversational way. This chatbot combines the power of Natural Language Processing, full-stack web development, and cloud integration to deliver an engaging and responsive user experience.
 
 🚀 Features
