@@ -3,6 +3,7 @@
 An interactive, multilingual AI-powered chatbot application designed to assist users in discovering, registering, and querying about events in a smart and conversational way. This chatbot combines the power of Natural Language Processing, full-stack web development, and cloud integration to deliver an engaging and responsive user experience.
 
 🚀 Features
+
 🧠 AI-Powered Chatbot using OpenAI's GPT API
 
 🌐 Multilingual Support via Google Translate API
@@ -21,7 +22,9 @@ An interactive, multilingual AI-powered chatbot application designed to assist u
 
 
 🧰 Tech Stack
+
 🌍 Frontend (React.js + Bootstrap)
+
 ⚛️ React.js
 
 🎨 Bootstrap 5
@@ -64,6 +67,7 @@ Chat messages
 
 
 🧠 AI Integration
+
 🤖 OpenAI GPT API (Chat responses)
 
 🌍 Google Translate API (for multilingual conversion)
@@ -111,16 +115,8 @@ Edit
  ┃ ┣ 📁 pages/
  ┃ ┣ 📁 services/
  ┃ ┗ 📄 App.js
-🛣️ Future Enhancements
-📈 Admin Analytics Dashboard
 
-💬 Chat History & Feedback System
 
-📲 WhatsApp Chatbot Integration
-
-🌐 UI i18n (multilingual interface)
-
-📥 CSV/Excel export of registration data
 
 📸 UI Preview
 ![vlcsnap-2025-07-03-21h04m27s814](https://github.com/user-attachments/assets/7c61da7a-4001-4bd0-9706-35ed83e7bde0)
@@ -134,6 +130,7 @@ Edit
 
 
 📚 How to Run Locally
+
 🖥️ Backend:
 bash
 Copy
@@ -147,5 +144,8 @@ Edit
 cd frontend
 npm install
 npm start
+
+
 🤝 Contributing
+
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
